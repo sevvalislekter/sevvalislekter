@@ -1,7 +1,7 @@
 ### Hi there 👋, Şevval İşlekter
 #### Software engineer
 
-Skills: Python/ C / C++ / HTML /CSS/JAVASCRİPT
+Skills: Python/ C / C++ / HTML /CSS/JAVASCRİPT/PHP
 
 - 🔭 I’m currently working on this page. 
 
